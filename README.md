@@ -41,3 +41,5 @@ The platform featured multiple interconnected pages, including a homepage, cours
 
 Navigation between pages was implemented with a responsive navbar and breadcrumb trails, ensuring smooth transitions. Dynamic elements like modals, tooltips, and dropdowns enhanced interactivity.
 
+![Screenshot 2024-12-29 130954](https://github.com/user-attachments/assets/a38b5d11-c19d-406c-b31b-9a9092e43880)
+![Screenshot 2024-12-29 131007](https://github.com/user-attachments/assets/9e876bde-6ab3-41a1-a8c4-c0a564ed9d89)
